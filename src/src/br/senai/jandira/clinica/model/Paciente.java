@@ -10,4 +10,8 @@ public class Paciente {
     String genero;
     String telefone;
     LocalDate dataNascimento;
+    public void marcarConsulta(){}
+    public void calcularIdade(){}
+    public void exibirDados(){}
+
 }

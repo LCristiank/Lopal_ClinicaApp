@@ -1,7 +1,6 @@
 package src.br.senai.jandira.clinica.model;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 public class Agenda {
@@ -10,11 +9,11 @@ public class Agenda {
     Paciente nomePaciente;
     Profissional nomeProfissional;
 
-    public void agendar(){
+    public void agendarConsulta(){
     }
-    public void remarcar(){
+    public void remarcarConsulta(){
     }
-    public void confirmar(){
+    public void confirmarConsulta(){
 
     }
 }
